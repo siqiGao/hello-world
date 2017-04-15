@@ -1,2 +1,2 @@
 # hello-world
-just another reposit
+just a try
